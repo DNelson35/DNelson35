@@ -30,7 +30,7 @@
 - [How &quot;this&quot; Works](https://dev.to/dnelson35/how-this-works-2bj3)
 <!-- BLOG-POST-LIST:END -->
 
-# My Videos 📼
+# 📼 My Videos 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 <!-- YT_VIDEO_LIST:START -->
