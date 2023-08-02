@@ -11,5 +11,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Ruby Serializers: Simplifying Data Serialization for Web Developers](https://dev.to/dnelson35/ruby-serializers-simplifying-data-serialization-for-web-developers-26jl)
+- [A Beginner&#39;s Guide to Regular Expressions in Ruby](https://dev.to/dnelson35/a-beginners-guide-to-regular-expressions-in-ruby-4ane)
+- [React&#39;s useContext Hook](https://dev.to/dnelson35/reacts-usecontext-hook-d02)
+- [How &quot;this&quot; Works](https://dev.to/dnelson35/how-this-works-2bj3)
 <!-- BLOG-POST-LIST:END -->
