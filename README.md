@@ -5,9 +5,37 @@
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    </div>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    </div>
+    <!-- Repeat for more badges -->
+</div>
+
+
+
 
 # 📚 My Blog Post 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
@@ -19,7 +47,8 @@
 - [How &quot;this&quot; Works](https://dev.to/dnelson35/how-this-works-2bj3)
 <!-- BLOG-POST-LIST:END -->
 
-# My Videos
+# My Videos 📼
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 <!-- YT_VIDEO_LIST:START -->
 <!-- YT_VIDEO_LIST:END -->
