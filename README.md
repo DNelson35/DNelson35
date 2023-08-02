@@ -1,6 +1,6 @@
 # Hi There, Im Damien 👋
   
-<img width="47%" height="211.39" alt="DNelson35's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DNelson35?cardType=github&theme=radical&preferLogin=false" /><img width="47%" height='211.39px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
+<img width="47%" height="200px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/DNelson35?cardType=github&theme=radical&preferLogin=false" /> <img width="47%" height="200px"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
 
 
 
