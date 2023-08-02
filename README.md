@@ -1,8 +1,6 @@
 # Hi There, Im Damien 👋
   
-<img width="47%" height="200px" object-fit="fill"  src="https://awesome-github-stats.azurewebsites.net/user-stats/DNelson35?cardType=github&theme=radical&preferLogin=false" /> <img width="47%" height="200px" object-fit="fill"   src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
-
-
+<img width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/DNelson35?cardType=github&theme=radical&preferLogin=false" /> <img width="47%" height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
