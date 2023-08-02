@@ -25,5 +25,5 @@
 - [myPantry video](https://www.youtube.com/watch?v=gJTa2yA_aN0)
 - [react ruby video](https://www.youtube.com/watch?v=_jjNU-Ku590)
 - [FindFlix walkthrough](https://www.youtube.com/watch?v=kpM-zySGw7w)
-- [Let&#39;s Drink Video Walkthrough](https://www.youtube.com/watch?v=Apmji8vh84o)
+- [Let's Drink Video Walkthrough](https://www.youtube.com/watch?v=Apmji8vh84o)
 <!-- YT_VIDEO_LIST:END -->
