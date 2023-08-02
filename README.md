@@ -1,9 +1,11 @@
 # Hi There, Im Damien 👋
 
 
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=DNelson35&show_icons=true&theme=radical'/>
+  <a align='left' width='47%' href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false">    <img  alt="DNelson35's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DNelson35?cardType=github&theme=radical&preferLogin=false" />  </a>
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
+
+
 
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
