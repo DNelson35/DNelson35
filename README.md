@@ -7,7 +7,7 @@
 
 <img align='left' width='47%' height='176.8px' padding="0px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
 
----
+<div style="margin-top: 20px;"></div> <!-- Spacer -->
 
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
