@@ -1,13 +1,7 @@
 # Hi There, Im Damien 👋
+  
+<img width="47%" alt="DNelson35's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DNelson35?cardType=github&theme=radical&preferLogin=false" /> <img width="47%" height='211.39px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
 
-
-<a align='left' width='47%' href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false"> 
-    <img align='left' width='47%' alt="DNelson35's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DNelson35?cardType=github&theme=radical&preferLogin=false" /> 
-</a> 
-
-<img align='left' width='47%' height='176.8px' padding="0px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=DNelson35&layout=compact'/>
-
-<div style="margin-top: 20px;"></div> <!-- Spacer -->
 
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -19,10 +13,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-
 
 # 📚 My Blog Post 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
