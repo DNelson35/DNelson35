@@ -14,3 +14,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+# My Videos
+
+<!-- YT_VIDEO_LIST:START -->
+<!-- YT_VIDEO_LIST:END -->
