@@ -16,6 +16,7 @@
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 <!-- BLOG-POST-LIST:START -->
+- [Redux and Redux Toolkit for Beginners: A Comprehensive Tutorial](https://dev.to/dnelson35/redux-and-redux-toolkit-for-beginners-a-comprehensive-tutorial-13cb)
 - [Ruby Serializers: Simplifying Data Serialization for Web Developers](https://dev.to/dnelson35/ruby-serializers-simplifying-data-serialization-for-web-developers-26jl)
 - [A Beginner&#39;s Guide to Regular Expressions in Ruby](https://dev.to/dnelson35/a-beginners-guide-to-regular-expressions-in-ruby-4ane)
 - [React&#39;s useContext Hook](https://dev.to/dnelson35/reacts-usecontext-hook-d02)
