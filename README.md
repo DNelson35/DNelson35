@@ -27,8 +27,8 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 <!-- YT_VIDEO_LIST:START -->
+- [CliqueBoard Walkthrough](https://www.youtube.com/watch?v=TR2_XzyOkWk)
 - [myPantry video](https://www.youtube.com/watch?v=gJTa2yA_aN0)
 - [react ruby video](https://www.youtube.com/watch?v=_jjNU-Ku590)
 - [FindFlix walkthrough](https://www.youtube.com/watch?v=kpM-zySGw7w)
-- [Let&#39;s Drink Video Walkthrough](https://www.youtube.com/watch?v=Apmji8vh84o)
 <!-- YT_VIDEO_LIST:END -->
